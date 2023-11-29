@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\bin\Debug\Assignment23Delegate.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\bin\Debug\Assignment23Delegate.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\bin\Debug\Assignment23Delegate.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\obj\Debug\Assignment23Delegate.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\obj\Debug\Assignment23Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\obj\Debug\Assignment23Delegate.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-18 Assignment\Assignment23Delegate\Assignment23Delegate\obj\Debug\Assignment23Delegate.pdb
